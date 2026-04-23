@@ -12,8 +12,8 @@
 
 | Project | Stack | What it does |
 |---|---|---|
-| [**Safar**](https://github.com/yourusername/safar) | Next.js, Node.js/Express, TypeScript | Muslim-friendly travel planner — halal-conscious trip planning with prayer time awareness |
-| [**MySME Ops**](https://github.com/yourusername/mysme-ops) | NestJS, Next.js 15, PostgreSQL/Prisma, Redis | Multi-warehouse inventory management with distributed locking for race condition handling |
+| [**Safar**] | Next.js, Node.js/Express, TypeScript | Muslim-friendly travel planner — halal-conscious trip planning with prayer time awareness |
+| [**MySME Ops**] | NestJS, Next.js 15, PostgreSQL/Prisma, Redis | Multi-warehouse inventory management with distributed locking for race condition handling |
 
 ---
 
