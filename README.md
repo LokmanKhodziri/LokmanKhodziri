@@ -34,12 +34,12 @@
 
 - 🎓 Completing final year at Open University Malaysia
 - 🔍 Open to **junior fullstack / backend roles** in Selangor / KL
-- 🏗 Building portfolio projects — [Safar](https://github.com/yourusername/safar), MySME Ops, and more
+- 🏗 Building portfolio projects — [Safar], MySME Ops, and more
 
 ---
 
 ### 🤝 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokmankhodziri/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)]([https://YOUR_PORTFOLIO_URL](https://lokmankhodziri.vercel.app/))
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lokmankhodziri@gmail.com)
