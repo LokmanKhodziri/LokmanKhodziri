@@ -19,9 +19,9 @@
 
 | Project | Stack | What it does |
 |---|---|---|
-| [**Musafir-Go**](https://github.com/LokmanKhodziri/travel-planner-web) · [API](https://github.com/LokmanKhodziri/travel-planner-api) · [Live](https://travel-planner-web-mu.vercel.app) | Next.js, Express, PostgreSQL/Prisma, TypeScript | Muslim-friendly travel planner — day-by-day itineraries, prayer times, nearby mosques & halal spots, expenses, and a 3D globe |
+| [**Musafir-Go**](https://github.com/LokmanKhodziri/travel-planner-web) · [API](https://github.com/LokmanKhodziri/travel-planner-api) · [Live](https://musafirgo.vercel.app/) | Next.js, Express, PostgreSQL/Prisma, TypeScript | Muslim-friendly travel planner — day-by-day itineraries, prayer times, nearby mosques & halal spots, expenses, and a 3D globe |
 | **MySME Ops** | NestJS, Next.js 15, PostgreSQL/Prisma, Redis | Multi-warehouse inventory management with distributed locking for race-condition-safe stock updates |
-| [**CariPart**](https://github.com/LokmanKhodziri/techpricing_insights) · [Live](https://techpricing-insights.vercel.app) | Next.js, MongoDB/Prisma, Clerk, Tailwind | Malaysia PC-parts price tracker — marketplace imports, title normalization, and Shopee vs Lazada trend charts |
+| [**CariPart**](https://github.com/LokmanKhodziri/techpricing_insights) · [Live](https://caripart.vercel.app/) | Next.js, MongoDB/Prisma, Clerk, Tailwind | Malaysia PC-parts price tracker — marketplace imports, title normalization, and Shopee vs Lazada trend charts |
 
 ---
 
